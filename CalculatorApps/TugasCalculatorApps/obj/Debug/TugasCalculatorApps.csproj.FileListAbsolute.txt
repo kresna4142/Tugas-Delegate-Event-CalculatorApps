@@ -1,0 +1,12 @@
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\bin\Debug\TugasCalculatorApps.exe.config
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\bin\Debug\TugasCalculatorApps.exe
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\bin\Debug\TugasCalculatorApps.pdb
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.csproj.AssemblyReference.cache
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.csproj.SuggestedBindingRedirects.cache
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.FrmHasil.resources
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.Properties.Resources.resources
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.csproj.GenerateResource.cache
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.csproj.CoreCompileInputs.cache
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.exe
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.pdb
+D:\Semester 3\Pemrograman Lanjut\Tugas Pertemuan 08\TUGAS\CalculatorApps\TugasCalculatorApps\obj\Debug\TugasCalculatorApps.FrmPerhitungan.resources
